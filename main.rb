@@ -14,9 +14,3 @@ code_array.each do |code|
   code = code.strip
   new_file.puts(code)
 end
-
-
-
-
-
-
